@@ -1,3 +1,0 @@
--keep class org.custom.oplus.OPlusExtras.** {
-  *;
-}
